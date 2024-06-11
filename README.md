@@ -1,10 +1,12 @@
-##💛 Boas vindas ao meu perfil💛
+## 💛 Boas vindas ao meu perfil💛
 
 Meu nome é: Vitória do Nascimento
 Apelido: VI/LEVI
 
 *Estou estudando no Alura*
+
 *Estou me desenvolvendo na linguagem Javascript*
+
 *Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos
 
 ## Voce pode estrar em contado comigo ou me seguir😄
