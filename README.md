@@ -1,7 +1,9 @@
 ## 💛 Boas vindas ao meu perfil💛
 
-Meu nome é: Vitória do Nascimento
-Apelido: VI/LEVI
+Meu nome é: **Vitória do Nascimento**
+
+Apelido: **VI/LEVI**
+
 
 *Estou estudando no Alura*
 
